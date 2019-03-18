@@ -2,3 +2,13 @@
   font-family: sans-serif;
   text-align: center;
 }
+body {
+    text-align: center;
+}
+#root {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+    margin: auto;
+    font-size: 60px;
+}
